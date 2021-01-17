@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/05 - Organisasi Program dengan package/05 - Organisasi Program dengan package.iml" filepath="$PROJECT_DIR$/05 - Organisasi Program dengan package/05 - Organisasi Program dengan package.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06 - Print dan alur Eksekusi/06 - Print dan alur Eksekusi.iml" filepath="$PROJECT_DIR$/06 - Print dan alur Eksekusi/06 - Print dan alur Eksekusi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07 - Memahami String[] args/07 - Memahami String[] args.iml" filepath="$PROJECT_DIR$/07 - Memahami String[] args/07 - Memahami String[] args.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08 - Variable, Assignment dan Deklarasi/08 - Variable, Assignment dan Deklarasi.iml" filepath="$PROJECT_DIR$/08 - Variable, Assignment dan Deklarasi/08 - Variable, Assignment dan Deklarasi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09 - Tipe data Fundamental dan Primitive/09 - Tipe data Fundamental dan Primitive.iml" filepath="$PROJECT_DIR$/09 - Tipe data Fundamental dan Primitive/09 - Tipe data Fundamental dan Primitive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10 - Operator Aritmatika/10 - Operator Aritmatika.iml" filepath="$PROJECT_DIR$/10 - Operator Aritmatika/10 - Operator Aritmatika.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11 - Konversi Tipe Data/11 - Konversi Tipe Data.iml" filepath="$PROJECT_DIR$/11 - Konversi Tipe Data/11 - Konversi Tipe Data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12 - Operator Unary (Decrement dan Increment)/12 - Operator Unary (Decrement dan Increment).iml" filepath="$PROJECT_DIR$/12 - Operator Unary (Decrement dan Increment)/12 - Operator Unary (Decrement dan Increment).iml" />
+      <module fileurl="file://$PROJECT_DIR$/13 - Operator Assigments/13 - Operator Assigments.iml" filepath="$PROJECT_DIR$/13 - Operator Assigments/13 - Operator Assigments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14 - Operator Komparasi/14 - Operator Komparasi.iml" filepath="$PROJECT_DIR$/14 - Operator Komparasi/14 - Operator Komparasi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15 - Operator Logika/15 - Operator Logika.iml" filepath="$PROJECT_DIR$/15 - Operator Logika/15 - Operator Logika.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16 - Operator Bitwise/16 - Operator Bitwise.iml" filepath="$PROJECT_DIR$/16 - Operator Bitwise/16 - Operator Bitwise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17 - Latihan Artimatika/17 - Latihan Artimatika.iml" filepath="$PROJECT_DIR$/17 - Latihan Artimatika/17 - Latihan Artimatika.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18 - Pengelompokan Operasi Artimatika/18 - Pengelompokan Operasi Artimatika.iml" filepath="$PROJECT_DIR$/18 - Pengelompokan Operasi Artimatika/18 - Pengelompokan Operasi Artimatika.iml" />
+      <module fileurl="file://$PROJECT_DIR$/19 - Latihan Operator Logika/19 - Latihan Operator Logika.iml" filepath="$PROJECT_DIR$/19 - Latihan Operator Logika/19 - Latihan Operator Logika.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20 - IF Else Statement/20 - IF Else Statement.iml" filepath="$PROJECT_DIR$/20 - IF Else Statement/20 - IF Else Statement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/21 - IF Else IF Statement/21 - IF Else IF Statement.iml" filepath="$PROJECT_DIR$/21 - IF Else IF Statement/21 - IF Else IF Statement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/22 - nested if/22 - nested if.iml" filepath="$PROJECT_DIR$/22 - nested if/22 - nested if.iml" />
+      <module fileurl="file://$PROJECT_DIR$/23 - switch case/23 - switch case.iml" filepath="$PROJECT_DIR$/23 - switch case/23 - switch case.iml" />
+      <module fileurl="file://$PROJECT_DIR$/24 - ternary operator/24 - ternary operator.iml" filepath="$PROJECT_DIR$/24 - ternary operator/24 - ternary operator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/25 - latihan kalkulator ( if else )/25 - latihan kalkulator ( if else ).iml" filepath="$PROJECT_DIR$/25 - latihan kalkulator ( if else )/25 - latihan kalkulator ( if else ).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Kelas Terbuka.iml" filepath="$PROJECT_DIR$/.idea/Kelas Terbuka.iml" />
+    </modules>
+  </component>
+</project>
